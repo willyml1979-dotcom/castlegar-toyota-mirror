@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Toyota",
-  "generated_at": "2026-09-25T01:48:51",
+  "generated_at": "2026-09-26T02:52:43",
   "vehicle_count": 61,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/9123ea892b6a.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2019-Buick-Encore/1566335",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2019-Buick-Encore/1566335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:42:33",
+      "last_verified": "2026-09-26T02:51:16",
       "odometer_km": 96300,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/db921b682b6a.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Subaru-Outback/1609766",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Subaru-Outback/1609766?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:42:42",
+      "last_verified": "2026-09-26T02:51:25",
       "odometer_km": 122700,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/5e21cc019a42.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Corolla-Hatchback/1610794",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Corolla-Hatchback/1610794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:42:49",
+      "last_verified": "2026-09-26T02:51:34",
       "odometer_km": 44300,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/1b5f7e610413.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Prius-Prime/1616282",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Prius-Prime/1616282?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:42:24",
+      "last_verified": "2026-09-26T02:51:09",
       "odometer_km": 181400,
       "condition": "used"
     },
@@ -56,7 +56,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/516e35ca7017.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Tacoma/1534832",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Tacoma/1534832?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:42:56",
+      "last_verified": "2026-09-26T02:51:42",
       "odometer_km": 78300,
       "condition": "used"
     },
@@ -67,7 +67,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/aa55ee9e9e01.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2021-Ram-1500-Classic/1557533",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2021-Ram-1500-Classic/1557533?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:05",
+      "last_verified": "2026-09-26T02:51:50",
       "odometer_km": 131300,
       "condition": "used"
     },
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/feb34822b6e8.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2022-Toyota-Tacoma/1574987",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2022-Toyota-Tacoma/1574987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:13",
+      "last_verified": "2026-09-26T02:51:58",
       "odometer_km": 68300,
       "condition": "used"
     },
@@ -89,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/9e75bb88acca.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-4Runner/1595254",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-4Runner/1595254?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:20",
+      "last_verified": "2026-09-26T02:52:06",
       "odometer_km": 104100,
       "condition": "used"
     },
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/81328af85e2d.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-RAV4-Prime/1578882",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-RAV4-Prime/1578882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:27",
+      "last_verified": "2026-09-26T02:52:13",
       "odometer_km": 90600,
       "condition": "used"
     },
@@ -111,7 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/936e8b27bb55.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-RAV4-Prime/1609767",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-RAV4-Prime/1609767?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:35",
+      "last_verified": "2026-09-26T02:52:23",
       "odometer_km": 81300,
       "condition": "used"
     },
@@ -122,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/de4b836ac813.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1571418",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1571418?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:43",
+      "last_verified": "2026-09-26T02:52:31",
       "odometer_km": 36800,
       "condition": "used"
     },
@@ -133,7 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/fe9003cb5574.html",
       "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1573018",
       "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1573018?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T01:43:52",
+      "last_verified": "2026-09-26T02:52:39",
       "odometer_km": 74400,
       "condition": "used"
     },
