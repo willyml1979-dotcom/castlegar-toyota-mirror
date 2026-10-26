@@ -1,743 +1,369 @@
 {
   "dealership": "Castlegar Toyota",
-  "generated_at": "2026-10-25T13:09:39",
+  "generated_at": "2026-10-25T17:22:28",
   "vehicle_count": 60,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Used2018 Volkswagen Golf Alltrack AWDfor sale in Castlegar, BC",
       "vin": "3VWH17AU3JM763295",
-      "stock": "R-4379-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/1563758cb7bd.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2018-Volkswagen-Golf-Alltrack/1630750",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2018-Volkswagen-Golf-Alltrack/1630750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:07:38",
-      "odometer_km": 70800,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2020 Subaru Outback Outdoor XT AWDfor sale in Castlegar, BC",
       "vin": "4S4BTHJD2L3183481",
-      "stock": "N-7095-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/db921b682b6a.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Subaru-Outback/1609766",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Subaru-Outback/1609766?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:40",
-      "odometer_km": 122700,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2020 Toyota Corolla Hatchback SE CVTfor sale in Castlegar, BC",
       "vin": "JTNK4RBE5L3101303",
-      "stock": "H-6365-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/5e21cc019a42.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Corolla-Hatchback/1610794",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Corolla-Hatchback/1610794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:49",
-      "odometer_km": 44300,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2020 Toyota Prius Primefor sale in Castlegar, BC",
       "vin": "JTDKARFP6L3154312",
-      "stock": "B-5031-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/1b5f7e610413.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Prius-Prime/1616282",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2020-Toyota-Prius-Prime/1616282?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:31",
-      "odometer_km": 181400,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2021 Ram 1500 Classic Warlock 4X4for sale in Castlegar, BC",
       "vin": "1C6RR7LT7MS504560",
-      "stock": "9-3663-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/aa55ee9e9e01.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2021-Ram-1500-Classic/1557533",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2021-Ram-1500-Classic/1557533?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:58",
-      "odometer_km": 131300,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2021 Toyota RAV4 Hybrid XLE AWDfor sale in Castlegar, BC",
       "vin": "2T3RWRFV0MW124588",
-      "stock": "9-3677-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/a5e1857bbddf.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2021-Toyota-RAV4/1630688",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2021-Toyota-RAV4/1630688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:07:45",
-      "odometer_km": 114300,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2022 Toyota Tacomafor sale in Castlegar, BC",
       "vin": "3TYCZ5AN3NT077268",
-      "stock": "T-1201-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/feb34822b6e8.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2022-Toyota-Tacoma/1574987",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2022-Toyota-Tacoma/1574987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:09:08",
-      "odometer_km": 68300,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2023 Toyota 4Runner SR5 4X4for sale in Castlegar, BC",
       "vin": "JTENU5JR3P6093894",
-      "stock": "U-7805-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/9e75bb88acca.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-4Runner/1595254",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-4Runner/1595254?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:09:16",
-      "odometer_km": 104100,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2023 Toyota Tacomafor sale in Castlegar, BC",
       "vin": "3TYCZ5AN3PT179186",
-      "stock": "H-5731-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/e0a57b93c8a6.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-Tacoma/1622939",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2023-Toyota-Tacoma/1622939?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:04",
-      "odometer_km": 65300,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2024 Toyota 4Runner Limited 4x4for sale in Castlegar, BC",
       "vin": "JTEKU5JR3R6221895",
-      "stock": "F-7646-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/ba34c27472ce.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-4Runner/1630758",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-4Runner/1630758?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:07:54",
-      "odometer_km": 77700,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2024 Toyota Tacoma TRD Sport+ 4X4for sale in Castlegar, BC",
       "vin": "3TYLB5JN0RT039989",
-      "stock": "9-3676-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/1487c8a2269a.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tacoma/1618395",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tacoma/1618395?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:14",
-      "odometer_km": 68100,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2024 Toyota Tacoma TRD Sport+ 4X4for sale in Castlegar, BC serving Nelson",
       "vin": "3TYLB5JN8RT042042",
-      "stock": "9-3675-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/0f89343d6aa0.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tacoma/1620556",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tacoma/1620556?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:08:23",
-      "odometer_km": 55100,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Certified Pre-Owned2024 Toyota Tundrafor sale in Castlegar, BC serving Grand Forks",
       "vin": "5TFLA5DA9RX184921",
-      "stock": "9-3666-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/de4b836ac813.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1571418",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1571418?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:09:26",
-      "odometer_km": 36800,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024 Toyota Tundra Limited Nightshade 4x4for sale in Castlegar, BC serving Grand Forks",
       "vin": "5TFWA5DB3RX147059",
-      "stock": "UA5480-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/fe9003cb5574.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1573018",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/Used-2024-Toyota-Tundra/1573018?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-25T13:09:35",
-      "odometer_km": 74400,
-      "condition": "used",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "New2025 Toyota Sienna Limited AWDfor sale in Castlegar, BC",
       "vin": "5TDGSKFC3TS292332",
-      "stock": "N-2332-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/688e45bd5423.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2025-Toyota-Sienna/1420932",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2025-Toyota-Sienna/1420932?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:43:06",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota 4Runnerfor sale in Castlegar, BC",
       "vin": "JTEVA5BR1T5174738",
-      "stock": "F-4738-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/1aea8d4695c3.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-4Runner/1607967",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-4Runner/1607967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:37",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota C-HR XSE AWDfor sale in Castlegar, BC",
       "vin": "JTMAAAAD9VJ029846",
-      "stock": "A-9846-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/62e7de09fa4c.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-C-HR/1497231",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-C-HR/1497231?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:02",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Corolla Cross LE AWDfor sale in Castlegar, BC serving Grand Forks",
       "vin": "7MUCAABG2TV000000",
-      "stock": "1733020",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/acfcb0cea539.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Corolla-Cross/1110753",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Corolla-Cross/1110753?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:43:16",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Corolla Cross LE AWD Premiumfor sale in Castlegar, BC serving Creston",
       "vin": "7MUBAABG6TV209806",
-      "stock": "H-9806-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/7f4c94fd43d8.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Corolla-Cross/1162609",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Corolla-Cross/1162609?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:45",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Grand Highlander Hybrid Limited AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "5TDACAB50TS000000",
-      "stock": "1728346",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/892132846137.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Grand-Highlander/1151156",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Grand-Highlander/1151156?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:55",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Grand Highlander Hybrid Limited AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "5TDACAB50TS000000",
-      "stock": "1728589",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/81b6f1232ffc.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Grand-Highlander/1607976",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Grand-Highlander/1607976?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:43:24",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
-    },
-    {
-      "name": "New2026 Toyota Highlander Hybrid Platinum AWDfor sale in Castlegar, BC",
-      "vin": "5TDEBRCH0TS000000",
-      "stock": "1726814",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/7b9fca419537.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1432843",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1432843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:41",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
-    },
-    {
-      "name": "New2026 Toyota Highlander Hybrid XLE AWDfor sale in Castlegar, BC",
-      "vin": "5TDKBRCH0TS000000",
-      "stock": "1759306",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/5c923fc03a36.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1464690",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1464690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:52:44",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Highlander Hybrid Platinum AWDfor sale in Castlegar, BC serving Grand Forks",
       "vin": "5TDEBRCH0TS000000",
-      "stock": "1762111",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/7b9fca419537.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Toyota Highlander Hybrid XLE AWDfor sale in Castlegar, BC",
+      "vin": "5TDKBRCH0TS000000",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/5c923fc03a36.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Toyota Highlander Hybrid Platinum AWDfor sale in Castlegar, BC serving Grand Forks",
+      "vin": "5TDEBRCH0TS000000",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/b6ab4425ab88.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1563713",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Highlander/1563713?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:52:51",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota RAV4 Plug-In Hybrid SE AWDfor sale in Castlegar, BC serving Creston",
       "vin": "JTM7ERAV0TD000000",
-      "stock": "1753659",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/6ed0f135a1f6.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4-Plug-In-Hybrid/1500234",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4-Plug-In-Hybrid/1500234?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:43:33",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota RAV4 LE AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "2T36CRAV0TC000000",
-      "stock": "1746419",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/cb4533a74160.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4/1599031",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4/1599031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:43:41",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota RAV4 LE AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "2T36CRAV0TC000000",
-      "stock": "1739642",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/05cf046b5ad9.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4/1607966",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-RAV4/1607966?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T08:11:54",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Sienna XSE AWD Technologyfor sale in Castlegar, BC serving Creston",
       "vin": "5TDGSKFC0TS000000",
-      "stock": "1729252",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/6023740d7742.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1185139",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1185139?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:58",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Sienna XSE AWD Technologyfor sale in Castlegar, BC",
       "vin": "5TDGSKFC4TS287706",
-      "stock": "N-7706-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/93cab1f0c17f.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1566340",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1566340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:04",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Sienna Platinum AWDfor sale in Castlegar, BC serving Grand Forks",
       "vin": "5TDGSKFC0TS000000",
-      "stock": "1757623",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/862c982cc4e5.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1627843",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Sienna/1627843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:02",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacoma TRD Sport 4x4for sale in Castlegar, BC",
       "vin": "3TYLB5JN1TT152051",
-      "stock": "T-2051-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/dbfdb5f2e4e6.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1132140",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1132140?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:20:04",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Grand Forks",
       "vin": "3TYLB5JN8TT153844",
-      "stock": "T-3844-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/338ae78e351e.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1132158",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1132158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:12",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacoma TRD Sport+ 4x4for sale in Castlegar, BC serving Nelson",
       "vin": "3TYLB5JN0TT138996",
-      "stock": "T-8996-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/713c945e8680.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1145411",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1145411?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:21",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Grand Forks",
       "vin": "3TYLC5LN0TT000000",
-      "stock": "1681624",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/cab0bd3b7191.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1204608",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1204608?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:28",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacoma SR5 4x4for sale in Castlegar, BC serving Nelson",
       "vin": "3TYLB5JN2TT153077",
-      "stock": "T-3077-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/1e22e849ca24.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1217631",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1217631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:22:06",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Creston",
       "vin": "3TYLB5JN0TT000000",
-      "stock": "1679283",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/5b48616b40fa.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1321969",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1321969?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:35",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Grand Forks",
       "vin": "3TYLB5JNXTT147186",
-      "stock": "T-7186-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/4eba2e9a4084.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1420933",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1420933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:43",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacoma SR5+ 4x4for sale in Castlegar, BC serving Trail",
       "vin": "3TYLB5JN0TT000000",
-      "stock": "1717154",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/2eb25a2c13bc.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1442012",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1442012?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:52",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Grand Forks",
       "vin": "3TYLB5JN0TT000000",
-      "stock": "1686404",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/3e91fcd87ea3.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1446658",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1446658?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:54:59",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Trail",
       "vin": "3TYLB5JN4TT155574",
-      "stock": "T-5574-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/9668beab78eb.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1618952",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1618952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:20:37",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tacomafor sale in Castlegar, BC serving Nelson",
       "vin": "3TYLE5JN3TT156948",
-      "stock": "T-6948-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/5d2bc0bf0734.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1631376",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tacoma/1631376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:01",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tundra Limited Nightshade 4x4for sale in Castlegar, BC serving Grand Forks",
       "vin": "5TFWA5DB3TX401716",
-      "stock": "U-1716-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/9d3d4ec44d29.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1515348",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1515348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:55:25",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tundrafor sale in Castlegar, BC serving Grand Forks",
       "vin": "5TFWA5DB0TX000000",
-      "stock": "1711837",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/1fedc36e5534.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1585273",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1585273?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:55:33",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tundrafor sale in Castlegar, BC",
       "vin": "5TFWA5EC6TX063073",
-      "stock": "U-3073-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/8777978c2249.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1618065",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1618065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:20:55",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota Tundrafor sale in Castlegar, BC",
-      "vin": "5TFLA5DA0TX000000",
-      "stock": "1715258",
+      "vin": "5TFLA5DB7TX457113",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/d3b2b06ef590.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1623600",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-Tundra/1623600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:10",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota bZ Woodland AWDfor sale in Castlegar, BC serving Trail",
       "vin": "JTMBGAHB0TY601589",
-      "stock": "B-1589-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/9bfc02e2e598.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1497202",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1497202?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:41:46",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota bZ Woodland AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "JTMBGAHB4TY609906",
-      "stock": "B-9906-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/a8b488b59c22.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1518736",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1518736?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:41:55",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026 Toyota bZ Woodland AWDfor sale in Castlegar, BC serving Creston",
       "vin": "JTMBGAHB5TY611096",
-      "stock": "B-1096-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/79df6988af5a.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1531809",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2026-Toyota-bZ-Woodland/1531809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:51",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Camry XLE AWDfor sale in Castlegar, BC serving Creston",
       "vin": "4T1DBADK0TU000000",
-      "stock": "1760123",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/3102845e31a9.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Camry/1631419",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Camry/1631419?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:10",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Corolla Hatchback SE Upgrade CVTfor sale in Castlegar, BC",
       "vin": "JTNK4MBE0V3000000",
-      "stock": "1767152",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/8ba85146a370.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla-Hatchback/1464686",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla-Hatchback/1464686?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:19",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Corolla Hybrid LE AWDfor sale in Castlegar, BC",
       "vin": "JTDBDMHE4V3040625",
-      "stock": "H-0625-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/32aebe052c5b.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1261820",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1261820?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:20:11",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Corolla LE CVTfor sale in Castlegar, BC serving Creston",
       "vin": "5YFB4MDE0VP000000",
-      "stock": "1756123",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/fd60acb63213.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1420344",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1420344?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:11",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Corolla Hybrid LE AWDfor sale in Castlegar, BC",
       "vin": "JTDBDMHEXV3040550",
-      "stock": "H-0550-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/96d61d0112a4.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1618955",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Corolla/1618955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:19",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Land Cruiser Premium Package 4x4for sale in Castlegar, BC",
       "vin": "JTEABFAJ3VK083388",
-      "stock": "L-3388-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/62e031942901.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Land-Cruiser/1257889",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Land-Cruiser/1257889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T13:53:28",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Prius Plug-In Hybrid SEfor sale in Castlegar, BC",
       "vin": "JTDACACU5V3084211",
-      "stock": "P-4211-",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/37af27878574.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Prius-Plug-In-Hybrid/1390662",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Prius-Plug-In-Hybrid/1390662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:59",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Tacoma SR5+ 4x4for sale in Castlegar, BC serving Trail",
       "vin": "3TYLB5JN0TT000000",
-      "stock": "1756669",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/7a9544241ac2.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Tacoma/1515352",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Tacoma/1515352?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:26",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota Tacomafor sale in Castlegar, BC serving Nelson",
       "vin": "3TYLC5LN0TT000000",
-      "stock": "1756433",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/30fdbed6e069.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Tacoma/1627871",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-Tacoma/1627871?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:34",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota bZ XLE AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "JTMADAFB7TA010577",
-      "stock": "1765090",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/69f791c5fad7.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1439871",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1439871?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:42:42",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota bZ XLE AWDfor sale in Castlegar, BC serving Creston",
       "vin": "JTMADAFB0TA000000",
-      "stock": "1749228",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/9d7a4195807f.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1493244",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1493244?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:26",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027 Toyota bZ XLE AWDfor sale in Castlegar, BC serving Creston",
       "vin": "JTMADAFB0TJ000000",
-      "stock": "1749073",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/89514bf02b0d.html",
-      "source_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1613809",
-      "dealer_url": "https://www.castlegartoyota.com/inventory/New-2027-Toyota-bZ/1613809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:21:34",
-      "condition": "new",
-      "city": "Castlegar",
-      "province": "BC"
+      "condition": "new"
     }
   ]
 }
