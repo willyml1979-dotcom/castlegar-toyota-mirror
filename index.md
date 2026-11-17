@@ -1,6 +1,6 @@
 # Castlegar Toyota
 
- dealership in Castlegar. AI-readable inventory mirror, about 63 vehicles.
+ dealership in Castlegar. AI-readable inventory mirror, about 66 vehicles.
 
 - Official website: https://www.castlegartoyota.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/
