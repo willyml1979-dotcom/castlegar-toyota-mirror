@@ -1,10 +1,22 @@
 {
   "dealership": "Castlegar Toyota",
-  "generated_at": "2026-10-26T10:54:35",
-  "vehicle_count": 60,
+  "generated_at": "2026-11-17T08:12:38",
+  "vehicle_count": 63,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2010 Toyota RAV4 Limited AWDfor sale in Castlegar, BC",
+      "vin": "2T3DF4DV9AW044993",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/09b6e3b298f2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2016 Nissan Juke SV AWDfor sale in Castlegar, BC",
+      "vin": "JN8AF5MV2GT651679",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/e2451667f5f3.html",
+      "condition": "used"
+    },
     {
       "name": "Used2018 Volkswagen Golf Alltrack AWDfor sale in Castlegar, BC",
       "vin": "3VWH17AU3JM763295",
@@ -12,9 +24,9 @@
       "condition": "used"
     },
     {
-      "name": "Used2020 Subaru Outback Outdoor XT AWDfor sale in Castlegar, BC",
-      "vin": "4S4BTHJD2L3183481",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/db921b682b6a.html",
+      "name": "Used2019 Subaru Forester 2.5i Touring AWDfor sale in Castlegar, BC",
+      "vin": "JF2SKEGC0KH437258",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/2755cd521571.html",
       "condition": "used"
     },
     {
@@ -36,12 +48,6 @@
       "condition": "used"
     },
     {
-      "name": "Certified Pre-Owned2021 Toyota RAV4 Hybrid XLE AWDfor sale in Castlegar, BC",
-      "vin": "2T3RWRFV0MW124588",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/a5e1857bbddf.html",
-      "condition": "used"
-    },
-    {
       "name": "Certified Pre-Owned2022 Toyota Tacomafor sale in Castlegar, BC",
       "vin": "3TYCZ5AN3NT077268",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/feb34822b6e8.html",
@@ -54,9 +60,21 @@
       "condition": "used"
     },
     {
+      "name": "Certified Pre-Owned2023 Toyota Sienna Limited Hybrid AWDfor sale in Castlegar, BC",
+      "vin": "5TDGSKFC8PS097039",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/6b0dd3f84369.html",
+      "condition": "used"
+    },
+    {
       "name": "Certified Pre-Owned2023 Toyota Tacomafor sale in Castlegar, BC",
       "vin": "3TYCZ5AN3PT179186",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/e0a57b93c8a6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Toyota Tundrafor sale in Castlegar, BC",
+      "vin": "5TFJC5EC3PX002144",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/eafde8561c37.html",
       "condition": "used"
     },
     {
