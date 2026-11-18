@@ -1,7 +1,7 @@
 {
   "dealership": "Castlegar Toyota",
-  "generated_at": "2026-11-17T15:21:52",
-  "vehicle_count": 66,
+  "generated_at": "2026-11-18T00:04:40",
+  "vehicle_count": 67,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -48,9 +48,15 @@
       "condition": "used"
     },
     {
-      "name": "Certified Pre-Owned2022 Toyota Tacomafor sale in Castlegar, BC",
+      "name": "Certified Pre-Owned2022 Toyota Tacomafor sale in Castlegar, BC serving Trail",
       "vin": "3TYCZ5AN3NT077268",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/feb34822b6e8.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Pre-Owned2022 Toyota Tacomafor sale in Castlegar, BC",
+      "vin": "3TYCZ5AN9NT098335",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/used/b8c6614600da.html",
       "condition": "used"
     },
     {
