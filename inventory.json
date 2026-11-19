@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Toyota",
-  "generated_at": "2026-11-18T09:24:46",
+  "generated_at": "2026-11-18T19:45:25",
   "vehicle_count": 67,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -126,6 +126,12 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Toyota Corolla Cross LE AWDfor sale in Castlegar, BC",
+      "vin": "7MUCAABG4TV218170",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/acfcb0cea539.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Toyota Grand Highlander Hybrid Limited AWDfor sale in Castlegar, BC serving Nelson",
       "vin": "5TDACAB50TS000000",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/892132846137.html",
@@ -147,12 +153,6 @@
       "name": "New2026 Toyota Highlander Hybrid Platinum AWDfor sale in Castlegar, BC serving Grand Forks",
       "vin": "5TDEBRCH0TS000000",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/b6ab4425ab88.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026 Toyota RAV4 Plug-In Hybridfor sale in Castlegar, BC serving Creston",
-      "vin": "JTM7ERAV0TD000000",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/6ed0f135a1f6.html",
       "condition": "new"
     },
     {
@@ -306,12 +306,6 @@
       "condition": "new"
     },
     {
-      "name": "New2027 Toyota 4Runnerfor sale in Castlegar, BC",
-      "vin": "JTEVA5BR0T5000000",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/a93e94029d38.html",
-      "condition": "new"
-    },
-    {
       "name": "New2027 Toyota Camry SEfor sale in Castlegar, BC serving Creston",
       "vin": "4T1DAACK0TU000000",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/726b4e070937.html",
@@ -351,6 +345,12 @@
       "name": "New2027 Toyota Corolla LE CVTfor sale in Castlegar, BC serving Nelson",
       "vin": "5YFB4MDE0VP000000",
       "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/6041cebb4ebc.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Toyota Corolla Hybrid LE AWDfor sale in Castlegar, BC",
+      "vin": "JTDBDMHEXV3040550",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-toyota-mirror/new/96d61d0112a4.html",
       "condition": "new"
     },
     {
